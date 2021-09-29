@@ -32,5 +32,6 @@ Unity Tutorial / Warsztaty z Unity i wprowadzenie w tworzenie gier
     2. Zainstalowana najnowsza wersja programu Unity Hub. ( https://unity3d.com/get-unity/download )
     3. Założone konto na Unity. ( https://id.unity.com )
     4. Zainstalowana wersja Unity w programie UnityHub. ( w wypadku problemów zostanie to pokazana na warsztatach )
+    5. Znajomość języka angielskiego na podstawowym poziomie. ( nie konieczne ale ułatwia życie )
 ### Zasoby wiedzy
     1. Poradnik instalacji Unity https://docs.unity3d.com/Manual/GettingStartedInstallingUnity.html
